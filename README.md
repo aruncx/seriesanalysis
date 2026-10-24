@@ -72,20 +72,6 @@ Use `AB` for absent. An optional `Failures` column is cross-checked against the 
 3. In **Settings → Pages**, choose *Deploy from a branch*, branch `main`, folder `/ (root)`.
 4. Open `https://aruncx.github.io/`.
 
-## Project files
-
-| File | Purpose |
-|---|---|
-| `index.html` | The application (single file) |
-| `about.html` | About page |
-| `robots.txt` | Asks AI and data-mining crawlers not to crawl the site |
-| `LICENSE` | All rights reserved |
-| `assets/` | Logo and campus image |
-
-## Protection notes
-
-Right-click, common DevTools shortcuts and view-source are blocked, and `robots.txt` asks AI crawlers to stay away. These measures deter casual copying and only well-behaved crawlers obey `robots.txt`. They cannot hide code from a determined person, and a public repository shows its source on GitHub itself.
-
 ## Credits and licence
 
 Developed by **Arun Xavier**, Asst. Prof., Dept. of EEE, Vidya Academy of Science & Technology, Thrissur · [github.com/aruncx](https://github.com/aruncx)
