@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/vast-logo.png" alt="Vidya Academy of Science and Technology" width="220">
-
 # VAST Series Examination Analytics
 
 **Turn a series-test result sheet into class analysis, series-to-series comparison, student support lists, remedial plans, and print-ready PDF and Excel reports. In your browser, in minutes.**
