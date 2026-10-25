@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/vast-logo.png" alt="Vidya Academy of Science and Technology" width="220">
+
 # VAST Series Examination Analytics
 
 **Turn a series-test result sheet into class analysis, series-to-series comparison, student support lists, remedial plans, and print-ready PDF and Excel reports. In your browser, in minutes.**
@@ -34,7 +36,7 @@
 1. **Load** the Series Test I and II result files (`.xls`, `.xlsx` or `.csv`). Series III is optional.
 2. **Check settings.** Confirm department, subjects, core or elective type, maximum and pass marks. Add mentors if you wish.
 3. **Review** the analysis, comparison, support list and remedial plan. Edit anything that needs a faculty decision.
-4. **Export** the PDF report and the Excel workbook from the Export centre.
+4. **Export** the PDF report and the Excel workbook from the Export to PDF/Excel.
 
 ## Rules used (all configurable where noted)
 
@@ -69,6 +71,20 @@ Use `AB` for absent. An optional `Failures` column is cross-checked against the 
 2. Upload `index.html`, `about.html`, `robots.txt`, `LICENSE` and the `assets` folder to the repository root.
 3. In **Settings → Pages**, choose *Deploy from a branch*, branch `main`, folder `/ (root)`.
 4. Open `https://aruncx.github.io/`.
+
+## Project files
+
+| File | Purpose |
+|---|---|
+| `index.html` | The application (single file) |
+| `about.html` | About page |
+| `robots.txt` | Asks AI and data-mining crawlers not to crawl the site |
+| `LICENSE` | All rights reserved |
+| `assets/` | Logo and campus image |
+
+## Protection notes
+
+Right-click, common DevTools shortcuts and view-source are blocked, and `robots.txt` asks AI crawlers to stay away. These measures deter casual copying and only well-behaved crawlers obey `robots.txt`. They cannot hide code from a determined person, and a public repository shows its source on GitHub itself.
 
 ## Credits and licence
 
